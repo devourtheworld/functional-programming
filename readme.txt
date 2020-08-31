@@ -4,3 +4,4 @@ MAP - https://www.youtube.com/watch?v=bCqtb-Z5YGQ&list=PL0zVEGEvSaeEd9hlmCXrk5yU
 REDUCE - https://www.youtube.com/watch?v=Wl98eZpkp-c&list=PL0zVEGEvSaeEd9hlmCXrk5yUyqUag-n84&index=3
 ADVANCED-REDUCE - https://www.youtube.com/watch?v=1DMolJ2FrNY
 CLOSURES - https://www.youtube.com/watch?v=CQqwU2Ixu-U
+           https://developer.mozilla.org/en-US/docs/Web/JavaScript/Closures
