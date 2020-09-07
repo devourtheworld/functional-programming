@@ -1,6 +1,7 @@
 {
     "type": "module",
     "dependencies": {
+        "baconjs": "^3.0.15",
         "highland": "^2.13.5"
     }
 }
